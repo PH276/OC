@@ -1,0 +1,11 @@
+a) page HTML : Mise en place de 4 paragraphes dans un élément bloc et d'un élément audio,
+b) feuille de style CSS pour mettre en forme la carte avec uniquement le 1er paragraphe sur un fond coloré et décharation de d'une clmasse permettant de changer le fond de la carte au dernier événement,
+c) fichier javascript :
+	1) déclaration des variables contenant les éléments sur lesquels agir,
+	2) mise en place d'écouteurs sur les paragraphes permettant de suivre le scénario suivant :
+		 - le clic sur les paragraphes 1 à 3 affiche le paragraphe suivant,
+		 - le clic sur 4ème paragraphe change le texte des 4 paragraphes avec le même texte, change le fond avec une photo et  lance un audio
+
+
+
+	

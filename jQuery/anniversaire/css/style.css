@@ -1,0 +1,53 @@
+div{
+    padding-top: 20px;
+    width: 400px;
+    height: 500px;
+    background: #ade1fd;
+    margin: 10vh;
+}
+
+section{
+    height: 5em;
+    border: 1px solid black;
+}
+
+p{
+    font-family: Arial;
+    width: 175px;
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: .8em;
+    color: white;
+}
+
+#par-1{
+    font-size: 1.2em;
+    font-weight:bold;
+    color: black;
+    padding: 20px 10px;
+    background: white;
+}
+
+#par-2{
+    background: #7effcc;
+    display: none;
+}
+
+#par-3{
+    background: #ffe997;
+    display: none;
+}
+
+#par-4{
+    background: #fea1d4;
+    display: none;
+}
+
+.fond{
+    background: url("../img/fete-anniversaire.jpg") no-repeat;
+    border: 1px solid black;
+}
